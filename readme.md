@@ -2,6 +2,9 @@
 
 ![Ergo36](https://i.imgur.com/bYZPD0g.jpeg)
 
+## Project Description
+Ergo36 is a customizable split keyboard designed for ease of assembly, handwiring flexibility, and seamless integration with the QMK firmware, providing users with a smooth and personalized typing experience.
+
 ## Instructions
 
 * Put this firmware folder into `qmk_firmware/keyboards` after changing the folder name to `ergo36`
