@@ -7,7 +7,7 @@ Ergo36 is a customizable split keyboard designed for ease of assembly, handwirin
 
 ## Instructions
 
-* Put this firmware folder into `qmk_firmware/keyboards` after changing the folder name to `ergo36`
+* Place the contents of "firmware" folder into `qmk_firmware/keyboards` after changing the folder name to `ergo36`
 * 2 ways to flash your own keymap
     1. **By Using Make**:<br>
     Make example for this keyboard (after setting up your build environment):
