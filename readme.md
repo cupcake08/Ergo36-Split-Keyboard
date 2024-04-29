@@ -41,9 +41,9 @@ Ergo36 is a customizable split keyboard designed for ease of assembly, handwirin
 
 * Keyboard Maintainer: [Ankit Bhankharia](https://github.com/cupcake08)
 * Hardware: 
-    - Pro Micro x 2
+    - Pro Micro (any similar board) x 2
     - 1N4148 x 36 diodes
-    - TRRS Jacks x 2
+    - TRRS Jacks (PCB version recommended) x 2
     - M2 8mm standoffs x 2
     - M2 6mm screws x 4
     - Wires
